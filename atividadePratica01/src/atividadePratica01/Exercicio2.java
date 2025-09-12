@@ -11,8 +11,8 @@ public class Exercicio2 {
 		float nota1, nota2, nota3, nota4;
 			
 		// Entrada de dados
-		System.out.println("*****************Calculadora de Salário e Abono*****************");
-		System.out.println("*Exemplo formatação dos dados: 10,0*");
+		System.out.println("***********************MEDIA FINAL***********************");
+		System.out.println("*Exemplo formatação dos dados: 10,0 ou 10*");
 		System.out.println("Digite o valor da 1° nota: ");
 		nota1 = leia.nextFloat();
 		System.out.println("Digite o valor da 2° nota: ");
@@ -24,7 +24,7 @@ public class Exercicio2 {
 		
 	// Efetuar os cálculos
 		System.out.printf("Sua média final é: %.1f%n", (nota1 + nota2 + nota3 + nota4) / 4);	
-		System.out.println("****************************************************************");
+		System.out.println("************************************************************");
 
 	}
 
