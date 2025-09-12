@@ -24,7 +24,7 @@ public class Exercicio2 {
 		
 	// Efetuar os cálculos
 		System.out.printf("Sua média final é: %.1f%n", (nota1 + nota2 + nota3 + nota4) / 4);	
-		System.out.println("************************************************************");
+		System.out.println("**********************************************************");
 
 	}
 
