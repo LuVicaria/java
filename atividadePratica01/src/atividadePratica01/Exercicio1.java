@@ -19,6 +19,7 @@ public class Exercicio1 {
 		// Efetuar os cálculos
 			System.out.printf("Parabéns O seu novo salário é: %.2f%n", salario + abono);	
 			System.out.println("****************************************************************");
+			leia.close();
 	}
 
 }
