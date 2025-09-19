@@ -1,4 +1,4 @@
-package atividadePratica03;
+package atividadePratica04;
 
 import java.util.Scanner;
 

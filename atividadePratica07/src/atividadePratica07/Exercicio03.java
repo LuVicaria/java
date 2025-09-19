@@ -1,5 +1,4 @@
 package atividadePratica07;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Scanner;
@@ -25,8 +24,8 @@ public class Exercicio03 {
 		
 		//Instanciando o iterator para 'andar' pelo array
 		Iterator<Integer> iteValoresInteiros = valoresInteiros.iterator();
-
 		
+		//Valores dos iterator descritos na tela
 		while (iteValoresInteiros.hasNext()) {
 		System.out.println(iteValoresInteiros.next());
 		}
