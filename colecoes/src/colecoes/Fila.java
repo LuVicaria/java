@@ -36,6 +36,7 @@ public class Fila {
 		//percorrer a fila
 		// criar uma variavel pessoa que é da classe String
 		// se utilizar uma variavel usando o var sabe qual é o tipo que deve criar 
+		
 		for (var pessoa : fila) {
 		
 			System.out.println(pessoa);
